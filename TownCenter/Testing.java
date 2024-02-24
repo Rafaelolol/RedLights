@@ -1,4 +1,4 @@
-package House1;
+package TownCenter;
 
 class Testing {
     public static void main(String[] args) {
